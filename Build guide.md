@@ -5,6 +5,7 @@ You will need the following items to build the macropad
 |hotswap sockets|6|Compatible with Kailh and Gateron|
 |diodes |6|1n4148 smd or THT|
 |switches |6|Only compatible with MX style|
+|keycaps|6|Cherry profile is compatible as it has south facing switches|
 |Arduino pro micro|1|Alternatives- [sparkfun type c pro micro](https://www.sparkfun.com/products/12640) or [Elite C](https://deskthority.net/wiki/Elite-C)
 |case|1|[Case files](https://github.com/Aniketh-Udupa/6-key-macropad/tree/main/case%20files)|
 
