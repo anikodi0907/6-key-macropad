@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "keyboard parts")(type "KiCad")(uri "C:/Users/Aniketh Udupa/Desktop/keyboard_parts.pretty-master")(options "")(descr ""))
+  (lib (name "hotswap")(type "KiCad")(uri "C:/Users/Aniketh Udupa/Desktop/keyswitch-kicad-library-main/library/footprints/Switch_Keyboard_Hotswap_Kailh.pretty")(options "")(descr ""))
+  (lib (name "promicro")(type "KiCad")(uri "C:/Users/Aniketh Udupa/Desktop/ProMicroKiCad-master/promicro.pretty")(options "")(descr ""))
+)
