@@ -1,13 +1,13 @@
 You will need the following items to build the macropad
 |Item|Quantity|Remarks|
 |----|--------|-------|
-|PCB |1|[PCB files](https://github.com/Aniketh-Udupa/6-key-macropad/tree/main/pcb-hotswap)|
+|PCB |1|[PCB files](https://github.com/anikodi0907/6-key-macropad/tree/main/pcb-hotswap)|
 |hotswap sockets|6|Compatible with Kailh and Gateron|
 |diodes |6|1n4148 smd or THT|
 |switches |6|Only compatible with MX style|
 |keycaps|6|Cherry profile is compatible as it has south facing switches|
 |Arduino pro micro|1|Alternatives- [sparkfun type c pro micro](https://www.sparkfun.com/products/12640) or [Elite C](https://deskthority.net/wiki/Elite-C)
-|case|1|[Case files](https://github.com/Aniketh-Udupa/6-key-macropad/tree/main/case%20files)|
+|case|1|[Case files](https://github.com/anikodi0907/6-key-macropad/tree/main/case%20files)|
 
 ## Assembly
 1)solder the diodes 
@@ -29,7 +29,7 @@ soldering not the best ik
 </details>
 
 # Firmware
-Flash the [firmware](https://github.com/Aniketh-Udupa/6-key-macropad/tree/main/firmware) (macropad.hex) onto the board with [QMK toolbox](https://github.com/qmk/qmk_toolbox)
+Flash the [firmware](https://github.com/anikodi0907/6-key-macropad/tree/main/firmware) (macropad.hex) onto the board with [QMK toolbox](https://github.com/qmk/qmk_toolbox)
 After the firmware has been flashed, go to [VIA](https://usevia.app/#/) and upload SSMP.json from [here](https://github.com/Aniketh-Udupa/6-key-macropad/tree/main/firmware).
 
 Here's a video how to do that.
