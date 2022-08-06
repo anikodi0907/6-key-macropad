@@ -1,7 +1,7 @@
 # 6-key-macropad
 A simple macropad with 6 switches. VIA compatible, uses arduino pro micro.
 
-Follow the [build guide]https://github.com/anikodi0907/6-key-macropad/blob/main/Build%20guide.md) to build the pcb.
+Follow the [build guide](https://github.com/anikodi0907/6-key-macropad/blob/main/Build%20guide.md) to build the pcb.
 
 ## Photos
 Fully built
