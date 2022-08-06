@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "keyboard_parts")(type "KiCad")(uri "C:/Users/Aniketh Udupa/Desktop/keyboard_parts.pretty-master")(options "")(descr ""))
+  (lib (name "promicro")(type "KiCad")(uri "C:/Users/Aniketh Udupa/Desktop/ProMicroKiCad-master/promicro.pretty")(options "")(descr ""))
+)
